@@ -134,7 +134,6 @@ export default function Page() {
           <h1>Make room for<br /><em>something</em> unexpected.</h1>
           <p>There&apos;s more happening than your group chat can hold. EventRadar brings every club, gathering, and serendipitous plan into focus.</p>
           <div className="hero-actions"><a href="#discover" className="hero-primary">Explore this week <ArrowUpRight /></a><a href="#problem-solution" className="hero-secondary">Why EventRadar <ChevronRight /></a></div>
-          <div className="hero-proof"><div className="avatar-stack"><i>J</i><i>M</i><i>A</i><i>+</i></div><span><strong>2,400+</strong> students finding their thing this week</span></div>
         </div>
         <div className="hero-visual"><div className="hero-image-wrap"><img src="/eventradar-campus.png" alt="Students gathering at a lively campus event" /><div className="image-overlay" /></div><div className="floating-card"><span className="live-dot" /><div><strong>Happening now</strong><small>Campus Arts Collective</small></div><ArrowUpRight /></div><div className="hero-orbit orbit-one" /><div className="hero-orbit orbit-two" /></div>
       </section>
