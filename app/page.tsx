@@ -130,7 +130,7 @@ export default function Page() {
 
       <section className="hero" id="main-content">
         <div className="hero-copy">
-          <div className="eyebrow"><span className="live-dot" /> Live from campus · Sep 12</div>
+          <div className="eyebrow"><span className="live-dot" /> Live from campus</div>
           <h1>Make room for<br /><em>something</em> unexpected.</h1>
           <p>There&apos;s more happening than your group chat can hold. EventRadar brings every club, gathering, and serendipitous plan into focus.</p>
           <div className="hero-actions"><a href="#discover" className="hero-primary">Explore this week <ArrowUpRight /></a><a href="#problem-solution" className="hero-secondary">Why EventRadar <ChevronRight /></a></div>
